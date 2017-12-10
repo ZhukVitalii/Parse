@@ -1,9 +1,5 @@
 package com.gmail.zhukvitaliis;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-
 public class Main {
     static int[] combinatins = new int[200];
     static int[] buckets = {1, 2, 5, 10};
